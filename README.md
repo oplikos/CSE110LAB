@@ -1,2 +1,3 @@
 # CSE110LAB
-lab
+
+![link to my lab](https://oplikos.github.io/CSE110LAB/)
