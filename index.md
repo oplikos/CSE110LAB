@@ -51,7 +51,7 @@ int main() {
 
 ---
 ***this is the assigment requirements*** 
-
+---
 - [x] Pictures.
 - [x] All the core Markdown constructs in GitHub Flavored MarkdownLinks to an external site.
 - [x] Headings.
@@ -63,7 +63,7 @@ int main() {
 - [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [x] Ordered and Unordered Lists.
 - [x] Task lists.
-
+---
 Thank you:
 ---
 [Back to top](#lab-1-for-cse-110) 
