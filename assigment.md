@@ -20,7 +20,11 @@
 ![image](screenshots/part2/sc3.png)
 ![image](screenshots/part2/sc4.png)
 
-this part i forgot to save the a screenshot i toke during the first stage so i did random file stage and comit
+---
+```
+this part i forgot to save the a screenshot i took during the first stage so i did random file stage and commit
+```
+---
 
 ![image](screenshots/part2/sc5.png)
 ![image](screenshots/part2/sc6.png)
