@@ -16,3 +16,6 @@
 ![image](screenshots/part2/sc1.png)
 ![image](screenshots/part2/sc2.png)
 ![image](screenshots/part2/sc3.png)
+![image](screenshots/part2/sc4.png)
+![image](screenshots/part2/sc5.png)
+![image](screenshots/part2/sc6.png)
